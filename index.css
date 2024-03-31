@@ -88,3 +88,4 @@ body{
     font-size: 18px;
     cursor: pointer;
 }
+@media screen and (max-width:600)
