@@ -4,7 +4,7 @@ This is done by using
   CSS
   Javascript
 
-   Features of TO DO LIst
+   Features of TO DO LIST
    we can delete
    we can add  and
    we can  make marks as completes
